@@ -16,7 +16,7 @@ Extract, Analyze, Visualize: That’s my mantra. Armed with Pandas, Seaborn, and
 - Google
 - Microsoft
 - Amazon
-- <br>
+<br>
 I’m starting with Amazon—my solo star. But hold tight; combined analysis is on the horizon! 🌠
 
 🌐 Data Source:
