@@ -2,6 +2,7 @@
 📈 **Stock Market Analysis of Various Companies Using Python
 <br>
 Author - Pritam Bhakat**
+<br>
 🚀 Unleashing Insights from Financial Data:
 In the fast-paced world of finance, I wield data science like a seasoned sword. It’s my trusty compass, extracting hidden gems from raw data and guiding businesses toward informed decisions. And guess what? Finance has been leading the charge! 
 
